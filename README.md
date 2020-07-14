@@ -16,8 +16,12 @@ To extract information (columns) from the LK Hadith corpus, use the starter code
 ------------------------------------------------------------------------------------------
 
 Important Note: 
-Bukhari folder was manually checked and is considered the gold standard of this corpus, while the other books(folders) were annotated automatically using a Hadith segmentation tool that segments the Isnad from the Matn. 
+Bukhari folder was manually checked and is considered the gold standard of this corpus, while the other books(folders) were annotated automatically using a Hadith segmentation tool that segments the Isnad from the Matn with 92% accuracy. 
 
 For further information about the automatic annotation refer to the paper: 
 
 Altammami, S., Atwell, E., & Alsalka, A.(2020) 'Constructing a Bilingual Hadith Corpus Using a Segmentation Tool'. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020). Marseille, 11–16 May 2020. pages 3383–3391
+
+------------------------------------------------------------------------------------------
+
+If you would like to submit corrections or comments about the corpus please send an email to shatha.tammami@gmail.com
