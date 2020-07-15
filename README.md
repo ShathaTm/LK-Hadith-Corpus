@@ -1,7 +1,8 @@
 
 
 <p dir='rtl' align='center' font-style: bold>بِسْمِ ٱللهِ ٱلرَّحْمٰنِ الرَّحِيْم</p>
-تهدف هذه المدونه إلى خدمة الباحثين في حوسبة علوم السنّة النبويّة الشريفة 
+
+<p dir='rtl' align='center' font-style: italic >تهدف هذه المدونه إلى خدمة الباحثين في حوسبة علوم السنّة النبويّة الشريفة</p>
 
 # LK-Hadith-Corpus
 Leeds University and King Saud University (LK) Hadith Corpus
