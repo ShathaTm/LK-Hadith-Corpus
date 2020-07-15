@@ -9,7 +9,11 @@ Leeds University and King Saud University (LK) Hadith Corpus
 - Extracted from the six canonical Hadith books
 - The corpus contains 39,038 annotated Hadiths that comprises more than 10 million tokens
 - Each component of the Hadith is extracted and allocated to a specific column:
-'Chapter_Number',	'Chapter_English',	'Chapter_Arabic',	'Section_Number',	'Section_English',	'Section_Arabic',	'Hadith_number','English_Hadith',	'English_Isnad',	'English_Matn',	'Arabic_Hadith'	,'Arabic_Isnad',	'Arabic_Matn',	'Arabic_Comment',	'English_Grade',	'Arabic_Grade'
+  *'Chapter_Number',	
+  *'Chapter_English',
+  *'Chapter_Arabic',	
+  *'Section_Number',	
+  'Section_English',	'Section_Arabic',	'Hadith_number','English_Hadith',	'English_Isnad',	'English_Matn',	'Arabic_Hadith'	,'Arabic_Isnad',	'Arabic_Matn',	'Arabic_Comment',	'English_Grade',	'Arabic_Grade'
 
 
 ### How to use it:
@@ -21,7 +25,7 @@ To extract information (columns) from the LK Hadith corpus, use the starter code
 
 Altammami, S , Atwell, E and Alsalka. 'The Arabic–English Parallel Corpus of Authentic Hadith'. In: International Journal on Islamic Applications in Computer Science And Technology - IJASAT. International Conference on Islamic Applications in Computer Science and Technologies - IMAN 2019, 27-28 Dec 2019. 
 
-[link to paper!](http://www.sign-ific-ance.co.uk/index.php/IJASAT/article/view/2199/1908)
+[link to paper](http://www.sign-ific-ance.co.uk/index.php/IJASAT/article/view/2199/1908)
 
 ------------------------------------------------------------------------------------------
 
@@ -32,7 +36,7 @@ For further information about the automatic annotation refer to the paper:
 
 Altammami, S., Atwell, E., & Alsalka, A.(2020) 'Constructing a Bilingual Hadith Corpus Using a Segmentation Tool'. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020). Marseille, 11–16 May 2020. pages 3383–3391
 
-[link to paper!](https://www.aclweb.org/anthology/2020.lrec-1.415/)
+[link to paper](https://www.aclweb.org/anthology/2020.lrec-1.415/)
 
 
 ------------------------------------------------------------------------------------------
