@@ -12,7 +12,7 @@ To extract information (columns) from the LK Hadith corpus, use the starter code
 
 ### If you use this Hadith corpus, kindly site the paper: 
 
-Altammami, S , Atwell, E and Alsalka, A (Accepted: 2019) The Arabic–English Parallel Corpus of Authentic Hadith. In: International Journal on Islamic Applications in Computer Science And Technology - IJASAT. International Conference on Islamic Applications in Computer Science and Technologies - IMAN 2019, 27-28 Dec 2019.
+Altammami, S , Atwell, E and Alsalka. 'The Arabic–English Parallel Corpus of Authentic Hadith'. In: International Journal on Islamic Applications in Computer Science And Technology - IJASAT. International Conference on Islamic Applications in Computer Science and Technologies - IMAN 2019, 27-28 Dec 2019.
 
 
 ------------------------------------------------------------------------------------------
