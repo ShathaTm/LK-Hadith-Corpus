@@ -1,6 +1,5 @@
 
-بِسْمِ ٱللهِ ٱلرَّحْمٰنِ الرَّحِيْم ##
-
+**بِسْمِ ٱللهِ ٱلرَّحْمٰنِ الرَّحِيْم **
 تهدف هذه المدونه إلى خدمة الباحثين في علوم السنّة النبويّة الشريفة 
 
 # LK-Hadith-Corpus
@@ -21,8 +20,8 @@ To extract information (columns) from the LK Hadith corpus, use the starter code
 ### If you use this Hadith corpus, kindly site the paper: 
 
 Altammami, S , Atwell, E and Alsalka. 'The Arabic–English Parallel Corpus of Authentic Hadith'. In: International Journal on Islamic Applications in Computer Science And Technology - IJASAT. International Conference on Islamic Applications in Computer Science and Technologies - IMAN 2019, 27-28 Dec 2019. 
-http://www.sign-ific-ance.co.uk/index.php/IJASAT/article/view/2199/1908
 
+[link to paper!](http://www.sign-ific-ance.co.uk/index.php/IJASAT/article/view/2199/1908)
 
 ------------------------------------------------------------------------------------------
 
@@ -32,7 +31,8 @@ Bukhari folder was manually checked and is considered the gold standard of this 
 For further information about the automatic annotation refer to the paper: 
 
 Altammami, S., Atwell, E., & Alsalka, A.(2020) 'Constructing a Bilingual Hadith Corpus Using a Segmentation Tool'. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020). Marseille, 11–16 May 2020. pages 3383–3391
-https://www.aclweb.org/anthology/2020.lrec-1.415/
+
+[link to paper!](https://www.aclweb.org/anthology/2020.lrec-1.415/)
 
 
 ------------------------------------------------------------------------------------------
