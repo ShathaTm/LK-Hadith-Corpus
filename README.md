@@ -9,11 +9,12 @@ Leeds University and King Saud University (LK) Hadith Corpus
 - Extracted from the six canonical Hadith books
 - The corpus contains 39,038 annotated Hadiths that comprises more than 10 million tokens
 - Each component of the Hadith is extracted and allocated to a specific column:
-  --'Chapter_Number',	
-  --'Chapter_English',
-  --'Chapter_Arabic',	
-  --'Section_Number',	
-  'Section_English',	'Section_Arabic',	'Hadith_number','English_Hadith',	'English_Isnad',	'English_Matn',	'Arabic_Hadith'	,'Arabic_Isnad',	'Arabic_Matn',	'Arabic_Comment',	'English_Grade',	'Arabic_Grade'
+  1. Chapter_Number
+  2. Chapter_English
+  3. Chapter_Arabic
+  4. Section_Number	
+  5. Section_English
+  6. 'Section_Arabic',	'Hadith_number','English_Hadith',	'English_Isnad',	'English_Matn',	'Arabic_Hadith'	,'Arabic_Isnad',	'Arabic_Matn',	'Arabic_Comment',	'English_Grade',	'Arabic_Grade'
 
 
 ### How to use it:
