@@ -1,8 +1,16 @@
+
+بِسْمِ ٱللهِ ٱلرَّحْمٰنِ الرَّحِيْم##
+
+تهدف هذه المدونه إلى خدمة الباحثين في علوم السنّة النبويّة الشريفة 
+
 # LK-Hadith-Corpus
 Leeds University and King Saud University (LK) Hadith Corpus
 
-
-It is bilingual parallel corpus of Islamic Hadith, which is the set of narratives reporting different aspects of the prophet Muhammad's life. The Hadith collection is extracted from the six canonical Hadith books which possess unique linguistic features and patterns that are automatically extracted and annotated using a domain-specific tool for Hadith segmentation to seperate the two main components of Hadith, Isnad (narrators names) and Matn (actual teachings). The corpus contains 39,038 annotated Hadiths that comprises more than 10 million tokens. 
+- Bilingual parallel corpus of English-Arabic Islamic Hadith
+- Extracted from the six canonical Hadith books
+- The corpus contains 39,038 annotated Hadiths that comprises more than 10 million tokens
+- Each component of the Hadith is extracted and allocated to a specific column:
+'Chapter_Number',	'Chapter_English',	'Chapter_Arabic',	'Section_Number',	'Section_English',	'Section_Arabic',	'Hadith_number','English_Hadith',	'English_Isnad',	'English_Matn',	'Arabic_Hadith'	,'Arabic_Isnad',	'Arabic_Matn',	'Arabic_Comment',	'English_Grade',	'Arabic_Grade'
 
 
 ### How to use it:
