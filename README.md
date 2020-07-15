@@ -14,7 +14,17 @@ Leeds University and King Saud University (LK) Hadith Corpus
   1. Chapter_Arabic
   1. Section_Number	
   1. Section_English
-  1. 'Section_Arabic',	'Hadith_number','English_Hadith',	'English_Isnad',	'English_Matn',	'Arabic_Hadith'	,'Arabic_Isnad',	'Arabic_Matn',	'Arabic_Comment',	'English_Grade',	'Arabic_Grade'
+  1. Section_Arabic
+  1. Hadith_number
+  1. English_Hadith
+  1. English_Isnad
+  1. English_Matn
+  1. Arabic_Hadith
+  1. Arabic_Isnad
+  1. Arabic_Matn
+  1. Arabic_Comment
+  1. English_Grade
+  1. Arabic_Grade
 
 
 ### How to use it:
